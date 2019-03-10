@@ -1,0 +1,45 @@
+C:\Users\pblon\Desktop\a\1660325_PhamBaLong\1660325_PhamBaLong\bin\Debug\1660325_PhamBaLong.exe.config
+C:\Users\pblon\Desktop\a\1660325_PhamBaLong\1660325_PhamBaLong\bin\Debug\1660325_PhamBaLong.exe
+C:\Users\pblon\Desktop\a\1660325_PhamBaLong\1660325_PhamBaLong\bin\Debug\1660325_PhamBaLong.pdb
+C:\Users\pblon\Desktop\a\1660325_PhamBaLong\1660325_PhamBaLong\obj\Debug\1660325_PhamBaLong.csprojAssemblyReference.cache
+C:\Users\pblon\Desktop\a\1660325_PhamBaLong\1660325_PhamBaLong\obj\Debug\MainWindow.g.cs
+C:\Users\pblon\Desktop\a\1660325_PhamBaLong\1660325_PhamBaLong\obj\Debug\App.g.cs
+C:\Users\pblon\Desktop\a\1660325_PhamBaLong\1660325_PhamBaLong\obj\Debug\1660325_PhamBaLong_MarkupCompile.cache
+C:\Users\pblon\Desktop\a\1660325_PhamBaLong\1660325_PhamBaLong\obj\Debug\1660325_PhamBaLong_MarkupCompile.lref
+C:\Users\pblon\Desktop\a\1660325_PhamBaLong\1660325_PhamBaLong\obj\Debug\MainWindow.baml
+C:\Users\pblon\Desktop\a\1660325_PhamBaLong\1660325_PhamBaLong\obj\Debug\1660325_PhamBaLong.g.resources
+C:\Users\pblon\Desktop\a\1660325_PhamBaLong\1660325_PhamBaLong\obj\Debug\_1660325_PhamBaLong.Properties.Resources.resources
+C:\Users\pblon\Desktop\a\1660325_PhamBaLong\1660325_PhamBaLong\obj\Debug\1660325_PhamBaLong.csproj.GenerateResource.cache
+C:\Users\pblon\Desktop\a\1660325_PhamBaLong\1660325_PhamBaLong\obj\Debug\1660325_PhamBaLong.csproj.CoreCompileInputs.cache
+C:\Users\pblon\Desktop\a\1660325_PhamBaLong\1660325_PhamBaLong\obj\Debug\1660325_PhamBaLong.exe
+C:\Users\pblon\Desktop\a\1660325_PhamBaLong\1660325_PhamBaLong\obj\Debug\1660325_PhamBaLong.pdb
+C:\Users\pblon\Desktop\Thư mục mới\1660325_PhamBaLong\1660325_PhamBaLong\bin\Debug\1660325_PhamBaLong.exe.config
+C:\Users\pblon\Desktop\Thư mục mới\1660325_PhamBaLong\1660325_PhamBaLong\bin\Debug\1660325_PhamBaLong.exe
+C:\Users\pblon\Desktop\Thư mục mới\1660325_PhamBaLong\1660325_PhamBaLong\bin\Debug\1660325_PhamBaLong.pdb
+C:\Users\pblon\Desktop\Thư mục mới\1660325_PhamBaLong\1660325_PhamBaLong\obj\Debug\1660325_PhamBaLong.csprojAssemblyReference.cache
+C:\Users\pblon\Desktop\Thư mục mới\1660325_PhamBaLong\1660325_PhamBaLong\obj\Debug\MainWindow.g.cs
+C:\Users\pblon\Desktop\Thư mục mới\1660325_PhamBaLong\1660325_PhamBaLong\obj\Debug\App.g.cs
+C:\Users\pblon\Desktop\Thư mục mới\1660325_PhamBaLong\1660325_PhamBaLong\obj\Debug\1660325_PhamBaLong_MarkupCompile.cache
+C:\Users\pblon\Desktop\Thư mục mới\1660325_PhamBaLong\1660325_PhamBaLong\obj\Debug\1660325_PhamBaLong_MarkupCompile.lref
+C:\Users\pblon\Desktop\Thư mục mới\1660325_PhamBaLong\1660325_PhamBaLong\obj\Debug\MainWindow.baml
+C:\Users\pblon\Desktop\Thư mục mới\1660325_PhamBaLong\1660325_PhamBaLong\obj\Debug\1660325_PhamBaLong.g.resources
+C:\Users\pblon\Desktop\Thư mục mới\1660325_PhamBaLong\1660325_PhamBaLong\obj\Debug\_1660325_PhamBaLong.Properties.Resources.resources
+C:\Users\pblon\Desktop\Thư mục mới\1660325_PhamBaLong\1660325_PhamBaLong\obj\Debug\1660325_PhamBaLong.csproj.GenerateResource.cache
+C:\Users\pblon\Desktop\Thư mục mới\1660325_PhamBaLong\1660325_PhamBaLong\obj\Debug\1660325_PhamBaLong.csproj.CoreCompileInputs.cache
+C:\Users\pblon\Desktop\Thư mục mới\1660325_PhamBaLong\1660325_PhamBaLong\obj\Debug\1660325_PhamBaLong.exe
+C:\Users\pblon\Desktop\Thư mục mới\1660325_PhamBaLong\1660325_PhamBaLong\obj\Debug\1660325_PhamBaLong.pdb
+D:\1660325_PhamBaLong\1660325_PhamBaLong\bin\Debug\1660325_PhamBaLong.exe.config
+D:\1660325_PhamBaLong\1660325_PhamBaLong\bin\Debug\1660325_PhamBaLong.exe
+D:\1660325_PhamBaLong\1660325_PhamBaLong\bin\Debug\1660325_PhamBaLong.pdb
+D:\1660325_PhamBaLong\1660325_PhamBaLong\obj\Debug\1660325_PhamBaLong.csprojAssemblyReference.cache
+D:\1660325_PhamBaLong\1660325_PhamBaLong\obj\Debug\MainWindow.g.cs
+D:\1660325_PhamBaLong\1660325_PhamBaLong\obj\Debug\App.g.cs
+D:\1660325_PhamBaLong\1660325_PhamBaLong\obj\Debug\1660325_PhamBaLong_MarkupCompile.cache
+D:\1660325_PhamBaLong\1660325_PhamBaLong\obj\Debug\1660325_PhamBaLong_MarkupCompile.lref
+D:\1660325_PhamBaLong\1660325_PhamBaLong\obj\Debug\MainWindow.baml
+D:\1660325_PhamBaLong\1660325_PhamBaLong\obj\Debug\1660325_PhamBaLong.g.resources
+D:\1660325_PhamBaLong\1660325_PhamBaLong\obj\Debug\_1660325_PhamBaLong.Properties.Resources.resources
+D:\1660325_PhamBaLong\1660325_PhamBaLong\obj\Debug\1660325_PhamBaLong.csproj.GenerateResource.cache
+D:\1660325_PhamBaLong\1660325_PhamBaLong\obj\Debug\1660325_PhamBaLong.csproj.CoreCompileInputs.cache
+D:\1660325_PhamBaLong\1660325_PhamBaLong\obj\Debug\1660325_PhamBaLong.exe
+D:\1660325_PhamBaLong\1660325_PhamBaLong\obj\Debug\1660325_PhamBaLong.pdb
