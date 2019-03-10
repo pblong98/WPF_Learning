@@ -1,0 +1,15 @@
+﻿<Window x:Class="_1660325_PhamBaLong.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_1660325_PhamBaLong"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="145" Width="302.5"> 
+    <Grid>
+        <Button Content="Động lực" HorizontalAlignment="Left" Margin="10,11,0,0" VerticalAlignment="Top" Width="85" Height="83" Click="Button_Click" FontFamily="Tahoma"/>
+        <Button Content="Thể dục" HorizontalAlignment="Left" Margin="106,12,0,0" VerticalAlignment="Top" Width="84" Height="83" FontFamily="Tahoma" Click="Button_Click_1"/>
+        <Button Content="Anh Việt" HorizontalAlignment="Left" Margin="199,12,0,0" VerticalAlignment="Top" Width="85" Height="83" Click="Button_Click_2"/>
+
+    </Grid>
+</Window>
